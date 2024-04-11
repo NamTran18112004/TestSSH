@@ -1,1 +1,39 @@
-    1  git clone git@github.com-namtran:NamTranKhongSoMa/TestSSH.git     2  ls     3  cd TestSSH     4  echo 123     5  git add .     6  git push     7  git config user.name = "namtran"     8  git config user.email = "namtran181124@gmail.com"     9  git pull    10  echo nam    11  git add .    12  git commit-m "Day La Nam"    13  git push    14  echo liem    15  git add .    16  git branch namm    17  git checkout namm    18  echo a    19  git add .    20  cd ~/.ssh    21  pwd    22  ssh-keygen -t rsa -C "namtran181124@gmail.com" -f "id_rsa_namtran"    23  touch config    24  touch config    25  cls    26  cls    27  csl    28  eval "$(ssh-agent -s)"    29  ssh-add -D    30  ssh-add ~/.ssh/id_rsa_namtran    31  ssh-add -l    32  git clone git@github.com-namtran:NamTranKhongSoMa/TestSSH.git    33  ls    34  cd TestSSH    35    36  git remote set-url origin git@github.com-namtran:NamTranKhongSoMa/TestSSH.git    37  git pull    38  git pull    39  history
+    1  git clone git@github.com-namtran:NamTranKhongSoMa/TestSSH.git
+    2  ls
+    3  cd TestSSH
+    4  echo 123>a.txt
+    5  git add .
+    6  git push
+    7  git config user.name = "namtran"
+    8  git config user.email = "namtran181124@gmail.com"
+    9  git pull
+   10  echo nam>nam.txt
+   11  git add .
+   12  git commit-m "Day La Nam"
+   13  git push
+   14  echo liem>l.txt
+   15  git add .
+   16  git branch namm
+   17  git checkout namm
+   18  echo a>s.txt
+   19  git add .
+   20  cd ~/.ssh
+   21  pwd
+   22  ssh-keygen -t rsa -C "namtran181124@gmail.com" -f "id_rsa_namtran"
+   23  touch config
+   24  touch config
+   25  cls
+   26  cls
+   27  csl
+   28  eval "$(ssh-agent -s)"
+   29  ssh-add -D
+   30  ssh-add ~/.ssh/id_rsa_namtran
+   31  ssh-add -l
+   32  git clone git@github.com-namtran:NamTranKhongSoMa/TestSSH.git
+   33  ls
+   34  cd TestSSH
+   35
+   36  git remote set-url origin git@github.com-namtran:NamTranKhongSoMa/TestSSH.git
+   37  git pull
+   38  git pull
+   39  history
